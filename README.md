@@ -19,4 +19,5 @@ Objective:
     In this task, a sales dataset is created in CSV format containing details like date, product name, units sold, and revenue. The Python script reads the data,                 calculates the total units sold and total revenue, and then generates a structured PDF report. The report includes a title, summary statistics, and a detailed table          listing each sales entry.
 
 *OUTPUT*:
+[sales_report.pdf](https://github.com/user-attachments/files/20887718/sales_report.pdf)
 
